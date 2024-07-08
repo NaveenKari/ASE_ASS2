@@ -12,8 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.megnaa.entity.Student;
-import com.megnaa.service.StudentService;
+import com.naveen.entity.Student;
+import com.naveen.service.StudentService;
 
 @RestController
 @RequestMapping(path="api/v1/student")

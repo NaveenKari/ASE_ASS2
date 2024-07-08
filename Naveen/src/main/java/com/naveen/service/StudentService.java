@@ -7,8 +7,8 @@ import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import com.megnaa.entity.Student;
-import com.megnaa.repo.StudentRepositry;
+import com.naveen.entity.Student;
+import com.naveen.repo.StudentRepositry;
 
 import jakarta.transaction.Transactional;
 
